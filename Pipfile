@@ -9,6 +9,8 @@ pylint = "*"
 [packages]
 pymongo = "*"
 pprint = "*"
+requests = "*"
+firebase-admin = "*"
 
 [requires]
 python_version = "3.6"
