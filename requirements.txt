@@ -1,0 +1,4 @@
+pymongo
+pprint
+requests
+firebase-admin
