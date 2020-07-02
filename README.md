@@ -17,10 +17,10 @@ Want to save your data on <b>Firestore</b> or <b>MongoDB</b>. Then follow along 
 
 #### Requirements
  - <b>Packages</b>
-    - pymongo = "*"
-    - pprint = "*"
-    - requests = "*"
-    - firebase-admin = "*"
+    - pymongo
+    - pprint
+    - requests
+    - firebase-admin
  - <b>Initialize Firebase SDK</b>
     - Download [Secret_Key](https://firebase.google.com/docs/admin/setup#python#Initialize)
 
